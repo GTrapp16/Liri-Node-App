@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTrapp16/Liri-Node-App.git"
+  },
+  "keywords": [],
+  "author": "Greg Trapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GTrapp16/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/GTrapp16/Liri-Node-App#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
